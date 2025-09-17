@@ -1,3 +1,4 @@
+```mermaid
 graph TD
     A[Connexion<br>connexion.html] -->|Connexion réussie| B[Index<br>index.html]
     B -->|Menu déroulant| C[État des frais<br>etat-frais.html]
